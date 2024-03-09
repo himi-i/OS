@@ -1,5 +1,4 @@
-# OS
-# xv6
+# xv6 project
 git clone https://github.com/mit-pdos/xv6-public
 
 sudo apt install build-essential
